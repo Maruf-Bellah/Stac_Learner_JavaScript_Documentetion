@@ -33,3 +33,5 @@ switch(10){
 }
 
 // console.log(date.getDay());
+
+console.log('hello ');
