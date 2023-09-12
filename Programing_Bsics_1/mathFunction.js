@@ -29,3 +29,5 @@ console.log(Math.random());
 console.log(Math.round(Math.random() * 40 + 10));
 
 console.log(6+55698+79862+96638 * 6);
+
+console.log('amr sonar bangla');
