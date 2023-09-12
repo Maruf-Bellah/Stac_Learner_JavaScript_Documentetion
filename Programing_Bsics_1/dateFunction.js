@@ -7,7 +7,7 @@ console.log(date);
 console.log(date.toDateString());
 console.log(date.toTimeString());
 console.log(date.toLocaleString());
-console.log(date.toLocaleTimeString());
+console.log('Hello bro' + date.toLocaleTimeString());
 console.log(date.toUTCString());
 
 
