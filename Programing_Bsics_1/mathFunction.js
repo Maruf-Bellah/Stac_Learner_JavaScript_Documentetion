@@ -35,3 +35,6 @@ console.log('amr sonar bangla');
 console.log(857+87);
 
 console.log('amr sonar ');
+console.log('amr sonar ');
+
+console.log('amr sonar ');
