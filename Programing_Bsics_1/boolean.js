@@ -13,3 +13,5 @@ console.log(bol1);
 console.log(bool2);
 console.log(bool3);
 console.log(bool4);
+
+console.log('amr sonar bangla');
